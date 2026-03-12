@@ -1,4 +1,4 @@
-# 🎬 Frammer AI: Agentic SQL Analytics Bot
+# 🎬 Agentic SQL Analytics Bot
 
 A high-performance Generative AI solution designed to transform natural language into actionable insights using video production metadata. This project was built for the GenAI Selection Task.
 
